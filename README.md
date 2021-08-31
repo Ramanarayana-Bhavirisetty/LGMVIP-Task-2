@@ -1,2 +1,2 @@
-# LGMVIP-Task-2
-A web application using create-react-app
+# My react app for web dev task-2 
+
